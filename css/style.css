@@ -267,6 +267,10 @@ body{
     margin-bottom: 40px;
 }
 
+.rounded-pill {
+    cursor: pointer !important;
+}
+
 /*end journal*/
 
 
